@@ -4,4 +4,4 @@ This is a sample.
 
 This is a sample.
 
-![] (paths https://github.com/OguchiIKE/Anyaele_Nnamdi_ART2210/raw/master/img/source.gif)
+![] (https://github.com/OguchiIKE/Anyaele_Nnamdi_ART2210/raw/master/img/source.gif)
