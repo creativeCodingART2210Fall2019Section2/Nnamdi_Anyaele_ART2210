@@ -1,4 +1,4 @@
-# My Designeer Statement
+# My Designer Statement
 ## Artist of Influence Jean-Michel Basquiat
 
 My Art Page [Self Prtrait](https://oguchiike.github.io/Anyaele_Nnamdi_ART2210/Anyaele_Nnamdi_ART2210_Self-portrait_Fall2019/selfPortrait.html)
