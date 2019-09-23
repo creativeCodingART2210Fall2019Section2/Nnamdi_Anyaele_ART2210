@@ -2,8 +2,7 @@
 ## Artist of Influence Jean-Michel Basquiat
 
 ![](https://github.com/OguchiIKE/Anyaele_Nnamdi_ART2210/raw/master/Anyaele_Nnamdi_ART2210_Self-portrait_Fall2019/XXL_JeanMichBasquiat.jpg)
-
-                                           **XXL by Basquiat**
+                                             **XXL by Basquiat**
 
 Jean-Michel Basquiat is the artist whose works I decided to base my html page on.  First, I would like to get into a little history about the artist.   Jean-Michel Basquiat was a famous African American pop artist who rose to prominence around the later part of the 90s.  He was born to a Haitian father and Puerto Rican mother in Brooklyn, New York.  Commonly referred to simply as *Basquiat*, he grew up as a child with many talents, but became known for his graffiti art work around New York City.  He eventually elevated n popularity to the point where he was inducted into Andy Warhol’s inner circle of artists. 
 
