@@ -1,3 +1,3 @@
 #Read Me
 
- Demo [Click Here](https://oguchiike.github.io/Anyaele_Nnamdi_ART2210/classWork/Project_imgLink/IMGLink.html);
+ Demo [Click Here](https://raw.githubusercontent.com/OguchiIKE/Anyaele_Nnamdi_ART2210/master/classWork/Project_imgLink/Horizon.PNG);
