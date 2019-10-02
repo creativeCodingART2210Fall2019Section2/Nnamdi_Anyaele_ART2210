@@ -1,7 +1,8 @@
 # Nnamdi_Anyaele_ART2210
 
-This is a sample.
+This is my GITHub page.
 
-This is a sample.
 
-![](https://github.com/OguchiIKE/Anyaele_Nnamdi_ART2210/raw/master/img/avt.jpg)
+
+
+
