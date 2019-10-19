@@ -2,7 +2,7 @@
 var img;
 
 function preload(){
-    img = loadImage("Horizon.PNG")
+    img = loadImage("Horizon.png")
    
 }
 
