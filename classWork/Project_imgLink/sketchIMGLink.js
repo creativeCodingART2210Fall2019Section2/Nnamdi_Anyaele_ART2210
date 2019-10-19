@@ -2,7 +2,7 @@
 var img;
 
 function preload(){
-    img=loadImage('https://oguchiike.github.io/Anyaele_Nnamdi_ART2210/raw/master/classWork/Project_imgLink/Horizon.png')
+    img=loadImage('Horizon.png')
    
 }
 
