@@ -1,10 +1,10 @@
 # Bloc Attack
 
-[Play It Now!](https://oguchiike.github.io/Anyaele_Nnamdi_ART2210/Anyaele_Nnamdi_P5_Game/game.html)
+[Play It Now!](https://oguchiike.github.io/Anyaele_Nnamdi_ART2210/Anyaele_Nnamdi_BlocAttack_Fall2019/game.html)
 
 ## Designer Statement
 
-<div align=center><img  src=https://github.com/OguchiIKE/Anyaele_Nnamdi_ART2210/raw/master/Anyaele_Nnamdi_P5_Game/assets/screenCap.PNG>
+<div align=center><img  src=https://github.com/OguchiIKE/Anyaele_Nnamdi_ART2210/raw/master/Anyaele_Nnamdi_BlocAttack_Fall2019/assets/screenCap.PNG>
 
 **The controls are simple.** 
 
@@ -16,5 +16,5 @@ You must shoot the attacking Mother Cube, while dodging the smaller projectile c
 
 For my game I wanted to pay homage to the classic “Shoot ‘em Up” games such as Galaxian and Space Invaders.  As well as more modern takes on the genre like CupHead.
 
-<div align=center><img width = "500" height = "500" src=https://github.com/OguchiIKE/Anyaele_Nnamdi_ART2210/raw/master/Anyaele_Nnamdi_P5_Game/assets/space-invaders.jpg>
+<div align=center><img width = "500" height = "500" src=https://github.com/OguchiIKE/Anyaele_Nnamdi_ART2210/raw/master/Anyaele_Nnamdi_BlocAttack_Fall2019/assets/space-invaders.jpg>
 
