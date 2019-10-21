@@ -268,7 +268,7 @@ function weWin(){
 
  
   textSize(67);                           
-  text("Are were you just lucky? Click to try again.", 200, height/2 + 200); 
+  text("Or were you just lucky? Click to try again.", 200, height/2 + 200); 
 
   if (mouseIsPressed) {
     resetting();
