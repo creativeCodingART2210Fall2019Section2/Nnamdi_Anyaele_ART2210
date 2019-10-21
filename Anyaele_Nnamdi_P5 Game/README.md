@@ -1,5 +1,6 @@
-# Designer statement
-
-## Bloc Attack
+# Bloc Attack
 
 Play It Now!
+
+## Designer Statement
+
