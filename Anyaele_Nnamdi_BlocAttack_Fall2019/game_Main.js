@@ -53,6 +53,11 @@ if(isPlaying){
   shoot();
 
   drawSprites();
+
+  fill(175);
+  textSize(20);
+  text("Press WASD to move" , 50, 50);
+  text("Press K to shoot" , 50, height - 50); 
   }
   
 
