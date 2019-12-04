@@ -2,6 +2,8 @@
 
 # Final Designer Statement
 
+<div align=center><img  src=https://github.com/OguchiIKE/Anyaele_Nnamdi_ART2210/raw/master/Anyaele_Nnamdi_Art2210_PlaneShooter_Fall2019/assets/Screenshot.png>
+
 My inspiration for this project came from discovering 3-D objects in the reference library. Originally I wanted to make a 3-D portrait that resembled a stained glass window, but I instead to just make a more detailed drawing overall.
 
 I began by making an illustrator file that was the size of a typical high definition screen. Once I drew my portrait I had all the points I needed to begin the coding process. My color choices are loosely based on heat-map patterns. The cooler parts such as hair are blues, and the warmer parts are reds. Each range has 3 colors The darker is set for the stroke outlines and the lighter two are for the normal color and the shaded areas. The stroke weight choices carried over my inspiration from stained glass, and all the outline strokes are thicker than the interior ones. The background is black and inorganic objects are white so they stick out from it.
