@@ -1,3 +1,5 @@
+[Play It Now!](https://oguchiike.github.io/Anyaele_Nnamdi_ART2210/Anyaele_Nnamdi_Art2210_PlaneShooter_Fall2019/game.html)
+
 # Final Designer Statement
 
 My inspiration for this project came from discovering 3-D objects in the reference library. Originally I wanted to make a 3-D portrait that resembled a stained glass window, but I instead to just make a more detailed drawing overall.
