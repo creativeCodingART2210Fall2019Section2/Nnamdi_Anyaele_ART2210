@@ -10,6 +10,6 @@ That is why I have decided to really try to emphasize animation for my final.   
 
  My game is modeled after the same genre.  I also took the liberty to create all of the animations in my project in the frame by frame style Cuphead is known for.  I used the Play library from P5 to handle the sprite animations.  I was able to animate in Opentoonz, a free 2D animation software previously used by Studio Ghibli.  From there I created simple animations for my sprites.  One thing very helpful about Opentoonz is that there is a setting to automatically export sprite sheets.  The sprite sheet contains all of the frames in a given animation in one image.  This is a great method for saving space, and is pretty common in the game development world.
 
-<div align=center><img  src=https://github.com/OguchiIKE/Anyaele_Nnamdi_ART2210/raw/master/Anyaele_Nnamdi_Art2210_PlaneShooter_Fall2019/assets/cuphead.png>
+<div align=center><img  src=https://github.com/OguchiIKE/Anyaele_Nnamdi_ART2210/raw/master/Anyaele_Nnamdi_Art2210_PlaneShooter_Fall2019/assets/cuphead.jpg>
 
 The hardest part for me was not coding by itself.  But it was solving the various problems that stood in the way of me achieving my vision for the game.  P5 has tons of documentation.  P5.Play has some as well, though not as much.  Still, no matter ow much documentation there is, if you want to make something unique that will require you to design your own algorithms and put the code together like a puzzle custom made just for you.
